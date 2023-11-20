@@ -1,10 +1,27 @@
 /*  your css code here. If applicable */
 .play{
 	width:200px;
-	height:500px;
+	height:400px;
 	background-color:lightgrey;
-	padding:50px;
-	box-shadow:40px;
-	
-	
+	padding:20px;
+	box-shadow:20px;
+	margin:auto;
+}
+.play>h1{
+	text-align:center;
+	font-size:30px;
+}
+.play>p{
+	text-align:center;
+	font-style:bold;
+	font-size:20px
+}
+.play>button{
+	width:80px;
+	height:50px;
+	margin-left:60px;
+	border-radius:10px;
+	background-color:lightcoral;
+	color:white;
+	border:none;
 }
